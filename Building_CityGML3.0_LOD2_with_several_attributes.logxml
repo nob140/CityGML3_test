@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Messages>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\appearance.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\bridge.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\building.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\cityFurniture.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\CityGML.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\cityObjectGroup.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\codeListMetaData.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\construction.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\core.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\dynamizer.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\generics.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\landUse.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\pointCloud.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\relief.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\transportation.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\tunnel.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\vegetation.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\versioning.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Reading schema file: C:\UTIL\FZKViewer-6.3_Build-2170\\GmlSchemata\CityGML_3_0\waterBody.xsd</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_003</MessageId>
+    <MessageType>Error</MessageType>
+    <MessageStrings>
+      <MessageString>Unknown schema component</MessageString>
+      <MessageString>complexTypeName = app:TexCoordListType</MessageString>
+      <MessageString>attributName = app:textureCoordinates</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_003</MessageId>
+    <MessageType>Error</MessageType>
+    <MessageStrings>
+      <MessageString>Unknown schema component</MessageString>
+      <MessageString>complexTypeName = bldg:AbstractBuildingType</MessageString>
+      <MessageString>attributName = bldg:storeyHeightsAboveGround</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_003</MessageId>
+    <MessageType>Error</MessageType>
+    <MessageStrings>
+      <MessageString>Unknown schema component</MessageString>
+      <MessageString>complexTypeName = bldg:AbstractBuildingType</MessageString>
+      <MessageString>attributName = bldg:storeyHeightsBelowGround</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_003</MessageId>
+    <MessageType>Error</MessageType>
+    <MessageStrings>
+      <MessageString>Unknown schema component</MessageString>
+      <MessageString>complexTypeName = bldg:AbstractBuildingType</MessageString>
+      <MessageString>attributName = bldg:storeyHeightsAboveGround</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_003</MessageId>
+    <MessageType>Error</MessageType>
+    <MessageStrings>
+      <MessageString>Unknown schema component</MessageString>
+      <MessageString>complexTypeName = bldg:AbstractBuildingType</MessageString>
+      <MessageString>attributName = bldg:storeyHeightsBelowGround</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_003</MessageId>
+    <MessageType>Error</MessageType>
+    <MessageStrings>
+      <MessageString>Unknown schema component</MessageString>
+      <MessageString>complexTypeName = bldg:AbstractBuildingType</MessageString>
+      <MessageString>attributName = bldg:storeyHeightsAboveGround</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_003</MessageId>
+    <MessageType>Error</MessageType>
+    <MessageStrings>
+      <MessageString>Unknown schema component</MessageString>
+      <MessageString>complexTypeName = bldg:AbstractBuildingType</MessageString>
+      <MessageString>attributName = bldg:storeyHeightsBelowGround</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_003</MessageId>
+    <MessageType>Error</MessageType>
+    <MessageStrings>
+      <MessageString>Unknown schema component</MessageString>
+      <MessageString>complexTypeName = core:AddressType</MessageString>
+      <MessageString>attributName = core:xalAddress</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_003</MessageId>
+    <MessageType>Error</MessageType>
+    <MessageStrings>
+      <MessageString>Unknown schema component</MessageString>
+      <MessageString>complexTypeName = core:CityModelType</MessageString>
+      <MessageString>attributName = core:engineeringCRS</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_003</MessageId>
+    <MessageType>Error</MessageType>
+    <MessageStrings>
+      <MessageString>Unknown schema component</MessageString>
+      <MessageString>complexTypeName = core:engineeringCRS</MessageString>
+      <MessageString>attributName = </MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_003</MessageId>
+    <MessageType>Error</MessageType>
+    <MessageStrings>
+      <MessageString>Unknown schema component</MessageString>
+      <MessageString>complexTypeName = core:xalAddress</MessageString>
+      <MessageString>attributName = </MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_003</MessageId>
+    <MessageType>Error</MessageType>
+    <MessageStrings>
+      <MessageString>Unknown schema component</MessageString>
+      <MessageString>complexTypeName = relief:RasterReliefType</MessageString>
+      <MessageString>attributName = relief:grid</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_003</MessageId>
+    <MessageType>Error</MessageType>
+    <MessageStrings>
+      <MessageString>Unknown schema component</MessageString>
+      <MessageString>complexTypeName = relief:TINReliefType</MessageString>
+      <MessageString>attributName = relief:tin</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_003</MessageId>
+    <MessageType>Error</MessageType>
+    <MessageStrings>
+      <MessageString>Unknown schema component</MessageString>
+      <MessageString>complexTypeName = relief:grid</MessageString>
+      <MessageString>attributName = </MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GMLSCHEMARead_003</MessageId>
+    <MessageType>Error</MessageType>
+    <MessageStrings>
+      <MessageString>Unknown schema component</MessageString>
+      <MessageString>complexTypeName = relief:tin</MessageString>
+      <MessageString>attributName = </MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>DataRead_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Loading data:</MessageString>
+      <MessageString>Friday, 11 February 2022 - 22:20:14</MessageString>
+      <MessageString>C:\dev\CityGML3\base_profile_example2\Building_CityGML3.0_LOD2_with_several_attributes.gml</MessageString>
+      <MessageString>Time for reading and parsing GML File: 1.812sec</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>Geometry calculation</MessageId>
+    <MessageType>Debug</MessageType>
+    <MessageStrings>
+      <MessageString>Epsilon: 5e-08</MessageString>
+      <MessageString>Precision: 6</MessageString>
+      <MessageString>Delta: 5e-08</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>DataPrepare_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Time for preparing data: 0.004sec</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GeoReference_002</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>BoundingBox in ETRS:3GK4</MessageString>
+      <MessageString>Point(X: 4490655.5, Y: 5322005.28, Z: 548.47 &#124; Dim: 3)</MessageString>
+      <MessageString>Point(X: 4490671.29, Y: 5322017.8, Z: 557.02 &#124; Dim: 3)</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GeoReference_002</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>BoundingBox in EPSG:4326</MessageString>
+      <MessageString>Point(X: 48.0360941431519, Y: 11.8732506213665, Z: 548.47 &#124; Dim: 3)</MessageString>
+      <MessageString>Point(X: 48.0362069739643, Y: 11.8734620842517, Z: 557.02 &#124; Dim: 3)</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GeoReference_002</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>BoundingBox in Local CRS</MessageString>
+      <MessageString>Point(X: 0, Y: 0, Z: 548.47 &#124; Dim: 3)</MessageString>
+      <MessageString>Point(X: 4490671.29, Y: 5322017.8, Z: 557.02 &#124; Dim: 3)</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GeoReference_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Number of found SRS: 1</MessageString>
+      <MessageString>ETRS:3GK4</MessageString>
+      <MessageString>Unsupported SRS: 0</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>GeoReference_005</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>SRS validation for the model bounding box:</MessageString>
+      <MessageString>Lower bound is valid</MessageString>
+      <MessageString>Upper bound is valid</MessageString>
+    </MessageStrings>
+  </Message_Text>
+  <Message_Text>
+    <MessageId>OpenGL_001</MessageId>
+    <MessageType>Comment</MessageType>
+    <MessageStrings>
+      <MessageString>Time for preparing OpenGL: 0.01sec</MessageString>
+    </MessageStrings>
+  </Message_Text>
+</Messages>
